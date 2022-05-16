@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/odQ5A4pdaDU8E/giphy.gif">
+<img width="150" src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/giphy.gif"> <img width="250" src="https://media.giphy.com/media/fvrL3qgQiMjg3GvBas/giphy.gif">
 </p>
-
 
 <p align="center">
 <a href= "https://www.instagram.com/accounts/login/?next=/ob11to/"><img src="https://img.icons8.com/material-outlined/32/000000/instagram-new--v1.png"/>
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
 </p>
 
 <h4 align="center"><samp>
-My repos ⬇️  
+My repos 🗡
   </samp>
 </h4>
 
