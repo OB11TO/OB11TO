@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<a href= "https://www.instagram.com/accounts/login/?next=/ob11to/"><img src="https://img.icons8.com/material-outlined/32/000000/instagram-new--v1.png"/>
-<a href= "https://habr.com/ru/users/OB11TO/"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-<a href= "https://t.me/OB11TO"><img src="https://img.icons8.com/material-outlined/32/000000/telegram-app.png"/>
-<a href= "https://vk.com/ob11to"><img src="https://img.icons8.com/material-outlined/32/000000/vk-circled.png"/>
+<a href= "https://www.instagram.com/accounts/login/?next=/ob11to/"><img src="https://img.icons8.com/nolan/32/instagram-new.png"/>
+<a href= "https://habr.com/ru/users/OB11TO/"><img src="https://img.icons8.com/nolan/32/twitter-circled.png"/>
+<a href= "https://t.me/OB11TO"><img src="https://img.icons8.com/nolan/64/telegram-app.png"/>
+<a href= "https://vk.com/ob11to"><img src="https://img.icons8.com/nolan/32/vk-circled.png"/>
 </p>
 
 <h4 align="center"><samp>
