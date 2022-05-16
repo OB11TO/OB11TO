@@ -14,9 +14,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/OB11TO" target="_blank">OB11TO</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=May+the+force+come+with+you)](https://git.io/typing-svg)
 
+<h3 align="center"><samp> Hi there 🌍 welcome to my Github!🕸🕷☁️ </samp></h3>
+
+
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/odQ5A4pdaDU8E/giphy.gif">
+</p>
+
+
+<p align="center">
+<a href= "https://www.instagram.com/accounts/login/?next=/ob11to/"><img src="https://img.icons8.com/material-outlined/32/000000/instagram-new--v1.png"/>
+<a href= "https://habr.com/ru/users/OB11TO/"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
+<a href= "https://t.me/OB11TO"><img src="https://img.icons8.com/material-outlined/32/000000/telegram-app.png"/>
+<a href= "https://vk.com/ob11to"><img src="https://img.icons8.com/material-outlined/32/000000/vk-circled.png"/>
+</p>
+
+<h4 align="center"><samp>
+My repos ⬇️  
+  </samp>
+</h4>
 
