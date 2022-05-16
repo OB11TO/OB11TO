@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center"><samp> Hi there 🌍 welcome to my Github!🕸🕷☁️ </samp></h3>
+<h3 align="center"><samp> Hi there 🌍 Welcome to my Github!🕸🕷☁️ </samp></h3>
 
 
 <p align="center">
