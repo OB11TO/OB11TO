@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 <h3 align="center"><samp> Hi there 🌍 Welcome to my Github!🕸🕷☁️ </samp></h3>
 
 
 <p align="center">
-<img width="320" src="https://media.giphy.com/media/QWd0FoAgdLLLslPDvX/giphy.gif"> 
-<img width="161" src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/giphy.gif"> 
+  <img width="161" src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/giphy.gif">
 <img width="220" src="https://media.giphy.com/media/fvrL3qgQiMjg3GvBas/giphy.gif">
+<img src="./gif/dio.gif"/>
+  <img width="161" src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/giphy.gif">
 </p>
 
 <p align="center">
