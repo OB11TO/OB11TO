@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img width="162" src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/giphy.gif">
-<img width="220" src="https://media.giphy.com/media/fvrL3qgQiMjg3GvBas/giphy.gif">
-<img src="./gif/dio.gif"/>
+<img width="320" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVxNWhnOXl1YmN4cmpsbTkxa2VuYnIyNzg5OG5kaGlzMmhwd2VtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5qZZFa1hm0IJYpLGh2/giphy.gif">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmIwdW81Zmo0OWg1bHdvNmVjbzVmZWU5a2xpMzUxOTFwbmpjZ2VrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ehn6K7ihHe9lKJhiCs/giphy.gif"/>
 </p>
 
 <p align="center">
