@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img width="365" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVxNWhnOXl1YmN4cmpsbTkxa2VuYnIyNzg5OG5kaGlzMmhwd2VtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5qZZFa1hm0IJYpLGh2/giphy.gif">
-<img src="gif/aspiration.gif">
+<img width="244" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVxNWhnOXl1YmN4cmpsbTkxa2VuYnIyNzg5OG5kaGlzMmhwd2VtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5qZZFa1hm0IJYpLGh2/giphy.gif">
+<img width="344" src="gif/aspiration.gif">
 </p>
 
 <p align="center">
