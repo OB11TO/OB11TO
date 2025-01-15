@@ -22,12 +22,14 @@ Here are some ideas to get you started:
 <img width="344" src="gif/aspiration.gif">
 </p>
 
+<!--
 <p align="center">
 <a href= "https://www.instagram.com/accounts/login/?next=/ob11to/"><img src="https://img.icons8.com/nolan/42/instagram-new.png"/>
 <a href= "https://habr.com/ru/users/OB11TO/"><img src="https://img.icons8.com/nolan/42/twitter-squared.png"/>
 <a href= "https://t.me/OB11TO"><img src="https://img.icons8.com/nolan/42/telegram-app.png"/>
 <a href= "https://vk.com/ob11to"><img src="https://img.icons8.com/nolan/42/vk-circled.png"/>
 </p>
+-->
 
 <h3 align="center"><samp>
 My repos 🗡
